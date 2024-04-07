@@ -1,0 +1,160 @@
+{
+  "status": 200,
+  "message": "ok",
+  "data": [
+    {
+      "SysNo": 1,
+      "Name": "Bnner",
+      "LotType": 1,
+      "OrderNum": 1,
+      "Status": 1,
+      "ValidTimeFrom": "2024-03-01 00:00:00",
+      "ValidTimeTo": "2024-03-31 23:59:59",
+      "AppOnlineSource": "App A",
+      "modList": [
+        {
+          "SysNo": 1,
+          "ReferSysNo": 1,
+          "Img": "https://fastly.jsdelivr.net/npm/@vant/assets/apple-1.jpeg",
+          "Position": 1,
+          "Type": 1,
+          "Value": "Value 1",
+          "UrlName": "Link 1",
+          "Url": "/login"
+        },
+        {
+          "SysNo": 2,
+          "ReferSysNo": 1,
+          "Img": "https://fastly.jsdelivr.net/npm/@vant/assets/apple-2.jpeg",
+          "Position": 1,
+          "Type": 1,
+          "Value": "Value 1",
+          "UrlName": "Link 1",
+          "Url": ""
+        }
+      ]
+    },
+    {
+      "SysNo": 2,
+      "Name": "Icons",
+      "LotType": 2,
+      "OrderNum": 2,
+      "Status": 1,
+      "ValidTimeFrom": "2024-03-01 00:00:00",
+      "ValidTimeTo": "2024-03-31 23:59:59",
+      "AppOnlineSource": "App B",
+      "modList": [
+        {
+          "SysNo": 1,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-41f4bcbec25ba66ce90463f9a5ae2156.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "105",
+          "Value": "美妆护理",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 2,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-1212bb3de3185cb6903ec812a0506c19.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "102",
+          "Value": "个人护理",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 3,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-2442f61a39ff735c91f7510bd6dddea5.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "101",
+          "Value": "家用电器",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 4,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-7f8fa5faf36bf78e4a7bf0623feb9c05.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "106",
+          "Value": "家纺布艺",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 5,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-a088f4a30bd04bdf96db4355457140d9.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "107",
+          "Value": "厨具用具",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 6,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-c17401fd5fd0d1917c7adc327601c540.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "103",
+          "Value": "家居日用",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 7,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-b1ace00de06b9ed8e37ee7796527f556.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "104",
+          "Value": "家具用品",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 8,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-8e1f26d1bd256e2f4dda7c9f3971dd58.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "108",
+          "Value": "手机通讯",
+          "UrlName": "",
+          "Url": ""
+        },
+        {
+          "SysNo": 9,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190927-183bcb953010b2ff298d152c95e28464.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "109",
+          "Value": "电子数码",
+          "UrlName": "电子数码",
+          "Url": ""
+        },
+        {
+          "SysNo": 10,
+          "ReferSysNo": 2,
+          "Img": "https://fuli.cn-sh2.ufileos.com/20190930-aaf63ba6e15c0e89832bd205a1ea33b2.png",
+          "Position": 2,
+          "Type": "",
+          "TypeCode": "",
+          "Value": "更多",
+          "UrlName": "更多",
+          "Url": ""
+        }
+      ]
+    }
+  ]
+}
